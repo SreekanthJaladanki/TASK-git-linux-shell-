@@ -1,0 +1,16 @@
+SET-B
+
+1)Create a AWS instance and connect to it.
+2)Write Shell scripts for
+Given Character is Vowel or not (only for lower case)
+If salary is less than 10,000 no tax, 5% tax for more than 10000 and less than equals to 25000 , 10% for more than 25000
+Age is below 13 , Display as a Child
+       Age is between 13-19, Display as a teenager
+       Age is  20 and more , Display as a Adult
+3)Connect to your remote repository , push into it.
+4)Make changes in scripts at Master
+ add for upper case too
+if salary is equals to 10000,  2%tax
+5)Create a branch and make changes
+if age is above 60 , display “Oldage”
+6)Merge the branch into master

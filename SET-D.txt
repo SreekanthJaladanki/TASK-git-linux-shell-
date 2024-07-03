@@ -3,7 +3,7 @@ SET-D
 1)Create a AWS instance and connect to it.
 2)Write Shell scripts for
 Input from user is Filename; check whether its present or not
-If salary is less than 30,000 no tax, 10% tax for more than 30000 and less than equals to 60000 , 15% for more than 40000
+If salary is less than 30,000 no tax, 10% tax for more than 30000 and less than equals to 40000 , 15% for more than 40000
 Age is below 13 , Display as a Child
        Age is between 13-19, Display as a teenager
        Age is  20 and more , Display as a Adult
